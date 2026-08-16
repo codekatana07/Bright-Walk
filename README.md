@@ -17,9 +17,10 @@ BrightWalk combines computer vision, location intelligence, and voice interactio
 ## 🔧 Prototype & Demo
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79b4814a-4be4-4ae0-a644-2a8996077fc3" width="260">
   <img src="https://github.com/user-attachments/assets/b7bb6cd6-75cf-4ba1-9c80-667261070db7" width="200">
-  <img src="https://github.com/user-attachments/assets/89fee998-fdc2-41fb-9317-a9d1a7bb8f90" width="200">
+  <img src="https://github.com/user-attachments/assets/3faead3a-5e9c-4c89-9a75-95bfadd3e51e" width="250">
+  
+  <img src="https://github.com/user-attachments/assets/9de5f6ca-396f-4e27-bd9c-653d8e432a18" width="200">
 </p>
 
 <p align="center"><i>ESP32-CAM prototype build · Live demo & AI scene description</i></p>
@@ -40,10 +41,11 @@ BrightWalk combines computer vision, location intelligence, and voice interactio
 ## 📱 Screenshots
 
 <p align="center">
+  <img src="https://github.com/user-attachments/assets/79b4814a-4be4-4ae0-a644-2a8996077fc3" width="200">
   <img src="https://github.com/user-attachments/assets/b41afe2e-f6c8-4185-acfb-f5813be35e0c" width="200">
-  <img src="https://github.com/user-attachments/assets/3faead3a-5e9c-4c89-9a75-95bfadd3e51e" width="200">
-  <img src="https://github.com/user-attachments/assets/9de5f6ca-396f-4e27-bd9c-653d8e432a18" width="200">
-  <img src="https://github.com/user-attachments/assets/9dbf9ec1-0f7b-4d85-bbbb-15422b09b588" width="200">
+  <img src="https://github.com/user-attachments/assets/9dbf9ec1-0f7b-4d85-bbbb-15422b09b588" width="206">
+  
+  <img src="https://github.com/user-attachments/assets/89fee998-fdc2-41fb-9317-a9d1a7bb8f90" width="206">
 </p>
 
 <p align="center"><i>Accessibility setup · Language selection · Explore Nearby · Voice interaction</i></p>
